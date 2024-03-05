@@ -4,3 +4,5 @@
 
 
 echo {1..5}
+echo {A,B}.js
+echo {A,B}
