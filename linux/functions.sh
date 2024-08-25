@@ -1,5 +1,7 @@
 get_name() {
-    echo "hello world"
+  echo "First argument: $1"
+  echo "Second argument: $2"
 }
 
-echo "I say  $(get_name)"
+
+get_name hello xin chao
